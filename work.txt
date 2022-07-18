@@ -1,2 +1,6 @@
 # 교육장에서 코드 작성합니다.
 # 집에서 코드를 작성합니다.
+
+$ git add .
+$ git commit -m "220718 | Add code"
+$ git push origin main
